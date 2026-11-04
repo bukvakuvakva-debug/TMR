@@ -1,0 +1,10 @@
+
+{
+  "name": "the-mexican-runner-archive",
+  "version": "1.0.0",
+  "description": "An unofficial retro-style fan archive dedicated to The Mexican Runner.",
+  "private": true,
+  "scripts": {
+    "start": "echo This is a static GitHub Pages website."
+  }
+}
